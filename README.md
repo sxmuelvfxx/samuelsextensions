@@ -31,3 +31,13 @@ Helps with matrix-based math operations in 3D environments.
 2. Click **Extensions → Add Extension**
 3. Load the file
 4. You might need to toggle Run Unsandboxed for some or they wont work
+
+##License
+
+You can do whatever you want with these files.
+
+Use them, edit them, share them, modify them, include them in your own projects — no credit or permission required.
+
+If you feel like it, a link back to my GitHub would be appreciated, but it’s not required.
+
+This software is provided "as is", without any warranty of any kind.
