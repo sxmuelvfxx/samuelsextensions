@@ -6,8 +6,7 @@ They provide tools for 3D rendering, lighting, geometry, and math operations, mo
 ## Extensions
 
 ### threejsbeta.js
-An experimental Three.js-based 3D renderer for TurboWarp.  
-Currently not fully functional and under development.
+somewhat works, will have feature breaking updates so use at your own risk
 
 ### advancedsorting.js
 A wrapper for array sorting that supports pointer-based sorting.  
